@@ -1,4 +1,4 @@
-package no4;
+package hw20170919.no4;
 import java.util.Scanner;
 /**
  * 字符串分隔

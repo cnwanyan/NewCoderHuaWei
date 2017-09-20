@@ -1,4 +1,4 @@
-package no2;
+package hw20170919.no2;
 
 import java.util.Scanner;
 

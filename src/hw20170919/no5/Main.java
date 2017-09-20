@@ -1,4 +1,4 @@
-package no5;
+package hw20170919.no5;
 import java.util.Scanner;
 /**
  * 进制转换
